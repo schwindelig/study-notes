@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Snippets.Microsoft70483.MultithreadingAndAsync")]
+[assembly: AssemblyTitle("TPL")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Snippets.Microsoft70483.MultithreadingAndAsync")]
+[assembly: AssemblyProduct("TPL")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("aefb85e2-51aa-4388-8701-54b8a5494b7c")]
+[assembly: Guid("785545d0-b36c-48fd-8116-2d7e6b6766b8")]
 
 // Version information for an assembly consists of the following four values:
 //
